@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VTank01
 - 👀 I’m interested in coding and programming
-- 🌱 I’m currently learning CI/CD tools & Django for Python
+- 🌱 I’m currently learning CI/CD tools & coding with Python
 - 💞️ I’m looking to collaborate more on automation projects
 - 📫 How to reach me ...(Github)
 ------------------------------------------------------------------
